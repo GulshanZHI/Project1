@@ -1,0 +1,312 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.tour-logo{
+  height:100px;
+  width:100px;
+  border-radius:50px;
+}
+
+
+#nav-item0{
+  color:#ff1900;
+  font-family:"roboto";
+}
+.banner-section-bg-container{
+  background-image:url('https://img.freepik.com/free-vector/realistic-travel-background-with-elements_52683-77784.jpg?size=626&ext=jpg&uid=R86870199&ga=GA1.2.294841545.1664424260&semt=sph');
+  
+
+ height:100vh;
+  background-size:cover;
+}
+.text-center{
+  color:#f50f0f;
+  font-weight:bold;
+  
+}
+.banner-heading{
+  font-size: 60px;
+}
+.banner-caption{
+  color:#006eff;
+  font-size: 20px;
+}
+
+.custom-button1{
+  color:#ff0000;
+  border-radius:15px;
+  background-color:transparent;
+  font-weight:bold;
+  border:1px solid green;
+  margin-left:10px;
+}
+.custom-button{
+  color:#ff0000;
+  border-radius:15px;
+  background-color:#ffffe0;
+  font-weight:bold;
+  border:none;
+  
+}
+.wcu-card1-image{
+  background-image:url('https://img.freepik.com/free-vector/large-modern-passenger-airliner-jet_1284-18782.jpg?size=626&ext=jpg&uid=R86870199&ga=GA1.2.294841545.1664424260&semt=sph');
+  height:200px;
+  background-size:cover;
+  margin:10px;
+}
+.wcu-card2-image{
+  background-image:url('https://img.freepik.com/free-vector/flat-hotel-facade-background_23-2148157379.jpg?size=338&ext=jpg&ga=GA1.2.294841545.1664424260&semt=sph');
+  height:200px;
+  background-size:cover;
+  margin:10px;
+  
+ 
+}
+.wcu-card3-image{
+  background-image:url('https://img.freepik.com/free-vector/super-sale-banner-design-vector-illustration_1035-14931.jpg?size=338&ext=jpg&ga=GA1.2.294841545.1664424260&semt=sph');
+  height:200px;
+  background-size:cover;
+  margin:10px;
+}
+.wcu-card-heading{
+  color:#ff00d0;
+  font-weight:bold;
+  font-size:30px;
+  
+}
+.wcu-heading{
+  color:red;
+  margin-top:50px;
+}
+.wcu-para-description{
+  color:#1424ff;
+  font-weight:bold;
+  
+}
+.wcu-container{
+  background-color:#eaf9d7;
+}
+.wcu-card{
+  background-color:white;
+  text-align:center;
+  margin-top:10px;
+  border-radius:15px;
+  margin-bottom:30px;
+  padding:10px;
+}
+.wcu-card1-para{
+  color:#f84f6b;
+  padding-bottom:20px;
+  font-weight: bold;
+}
+
+
+.explore-container{
+  background-color:#d6d6d6;
+}
+.explore-card1-para{
+  color:#ff0000;
+}
+
+
+.explore-card-heading{
+  font-size:15px;
+  color:#0062ff;
+}
+
+.explore-heading{
+  margin-top:30px;
+  color:red;
+}
+
+
+.explore-card-heading{
+  margin-left:20px;
+  font-weigth:bold;
+  font-size:20px;
+}
+.explore-card1-para{
+  margin-left:20px;
+  font-size:10px;
+}
+
+.explore-card{
+  background-color:white;
+  border-radius:15px;
+  padding:5px;
+}
+
+.explore-card1{
+  background-color:white;
+  border-radius:15px;
+  padding:5px;
+  margin-top:20px;
+  margin-bottom:20px;
+}
+.explore-card1-image{
+  background-image:url('https://img.freepik.com/free-vector/passenger-airplane-realistic-set-transparent-with-airliners-different-point-view-isolated_1284-31743.jpg?size=626&ext=jpg&uid=R86870199&ga=GA1.2.294841545.1664424260&semt=sph');
+height:150px; 
+  background-size:cover;
+  margin:10px;
+  border-radius:15px;
+}
+.explore-card2-image{
+  background-image:url('https://img.freepik.com/free-vector/flat-hotel-review-background_23-2148156671.jpg?size=338&ext=jpg&ga=GA1.2.294841545.1664424260&semt=sph');
+height:150px; 
+  background-size:cover;
+  margin:10px;
+  border-radius:15px;
+ 
+}
+.explore-card3-image{
+  background-image:url('https://img.freepik.com/free-psd/holiday-landing-page_23-2148918887.jpg?size=626&ext=jpg&ga=GA1.2.294841545.1664424260&semt=sph');
+height:150px; 
+  background-size:cover;
+  margin:10px;
+  border-radius:15px;
+ 
+}
+.explore-card4-image{
+  background-image:url('https://img.freepik.com/free-photo/train-stopped-railway_1112-138.jpg?size=626&ext=jpg&ga=GA1.2.294841545.1664424260&semt=sph');
+height:150px;
+  background-size:cover;
+  margin:10px;
+  border-radius:15px;
+ 
+}
+.explore-card5-image{
+  background-image:url('https://img.freepik.com/free-vector/bus-set-with-different-perspectives_23-2147830307.jpg?size=338&ext=jpg&ga=GA1.2.294841545.1664424260&semt=sph');
+height:150px;
+  background-size:cover;
+  margin:10px;
+  border-radius:15px;
+ 
+}
+.explore-card6-image{
+  background-image:url('https://img.freepik.com/free-vector/woman-with-bags-sits-passenger-seat-taxi-flat-vector-illustration_1284-67340.jpg?size=626&ext=jpg&ga=GA1.2.294841545.1664424260&semt=sph');
+height:150px; 
+  background-size:cover;
+  margin:10px;
+  border-radius:15px;
+ 
+}
+.explore-card7-image{
+  background-image:url('https://img.freepik.com/free-vector/forex-trading-background_52683-41999.jpg?size=626&ext=jpg&uid=R86870199&ga=GA1.2.294841545.1664424260&semt=sph');
+height:150px; 
+  background-size:cover;
+  margin:10px;
+  border-radius:15px;
+ 
+}
+.explore-card8-image{
+  background-image:url('https://img.freepik.com/free-vector/open-air-yoga-class-concept_52683-45574.jpg?size=626&ext=jpg&ga=GA1.2.294841545.1664424260&semt=sph');
+height:150px; 
+  background-size:cover;
+  margin:10px;
+  border-radius:15px;
+ 
+}
+
+.image{
+  background-size:cover;
+  height:150px;
+  padding-top:30px;
+  }
+.payment-heading{
+  color:red;
+  padding-top:30px;
+}
+.payment-para{
+  color:#8000ff;
+  font-weight:bold;
+}
+.payment-button{
+  border-radius:10px;
+  background-color:#e1e3f5;
+  color:#4f38ff;
+  font-weight:bold;
+}
+.payment-logo{
+  height:40px;
+  margin:10px;
+  padding-bottom:15px;
+}
+.payment-container{
+  background-color:#f5dbdb;
+}
+.gift-container{
+  background-color:#ddedee;
+}
+.gift-image{
+  height:150px;
+  padding-top:30px;
+}
+.gift-description{
+  color:#6600ff;
+  font-weight:bold;
+}
+.gift-heading{
+  color:#ff0000;
+}
+.gift-button{
+  border-radius:10px;
+  color:#001eff;
+  background-color:#f5ade2;
+  font-weight:bold;
+ margin-bottom:20px;
+}
+.gift-heading{
+  padding-top:30px;
+}
+.followus-heading{
+  color: red;
+  text-align:center;
+}
+.followus-container{
+  background-color:#fddfc4;
+ padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.icon1{
+  color:#5252ff;
+  font-size:40px;
+  
+}
+.icon2{
+  color:#ff00dd;
+  font-size:40px;
+}
+.icon3{
+  color:#005cf0;
+  font-size:40px;
+}
+.icon-container{
+  height:60px;
+  width:60px;
+  background-color:#fcfcfc;
+  border-radius:40px;
+  margin:10px;
+  padding-top:12px;
+  padding-bottom:11px;
+  padding-left: 11px;
+ 
+}
+.footer-heading{
+  font-weight:bold;
+  text-align:center;
+  color:#1100ff;
+}
+.footer-description{
+  text-align:center;
+  font-weight: bold;
+}
+.footer-container{
+  padding-top:20px;
+  padding-bottom:10px;
+  background-color:#a69bf8;
+}
+.text-center1{
+  font-size:50px;
+  text-align:center;
+  color:#f70808;
+}
